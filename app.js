@@ -10,7 +10,7 @@ const detectRoute = require('./routes/detectRoute');
 
 const app = express();
 app.use(cors({
-  origin: 'https://fake-news-frontend-l3psnz659-rajatrg13s-projects.vercel.app',
+  origin: 'https://fake-news-frontend-hhbkdam8r-rajatrg13s-projects.vercel.app',
   // methods: ['GET', 'POST'],
   // allowedHeaders: ['Content-Type']
 }))
